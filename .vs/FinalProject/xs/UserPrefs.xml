@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{962713BC-187A-4BCF-84D7-C4D3BF1EE2CD}|Default">
+  <MonoDevelop.Ide.ItemProperties.FinalProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="Program.cs" Line="834" Column="38" />
+      <File FileName="IsWeapon.cs" />
+      <File FileName="IsAttackable.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FinalProject" expanded="True">
+            <Node name="FinalProject" expanded="True">
+              <Node name="IsAttackable.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

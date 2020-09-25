@@ -1,0 +1,12 @@
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/obj/Debug/netcoreapp3.1/Homework_III.csprojAssemblyReference.cache
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/obj/Debug/netcoreapp3.1/Homework_III.csproj.CoreCompileInputs.cache
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/obj/Debug/netcoreapp3.1/Homework_III.AssemblyInfoInputs.cache
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/obj/Debug/netcoreapp3.1/Homework_III.AssemblyInfo.cs
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/bin/Debug/netcoreapp3.1/Homework_III.deps.json
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/bin/Debug/netcoreapp3.1/Homework_III.runtimeconfig.json
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/bin/Debug/netcoreapp3.1/Homework_III.runtimeconfig.dev.json
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/bin/Debug/netcoreapp3.1/Homework_III.dll
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/bin/Debug/netcoreapp3.1/Homework_III.pdb
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/obj/Debug/netcoreapp3.1/Homework_III.dll
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/obj/Debug/netcoreapp3.1/Homework_III.pdb
+/Users/fendiabouhassan/Projects/Homework_III/Homework_III/obj/Debug/netcoreapp3.1/Homework_III.genruntimeconfig.cache
